@@ -52,10 +52,17 @@ Power BI → Data Visualization & Interactive Dashboard
 - Consumer segment contributes the highest sales and profit.
 - Product sub-category performance varies significantly across sales and profit.
 
-## Future Scope
+
+ </> Markdown
+- ## Dashboard Preview
+- ## Future Scope
 
 - Sales forecasting
 - Customer-level analysis
 - Product performance analysis
 - Automated data refresh
 - Predictive analysis using Python and Machine Learning
+
+
+
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
